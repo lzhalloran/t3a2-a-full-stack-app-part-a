@@ -8,10 +8,10 @@ Readme file for Part A of final Coder Academy project, designing and planning a 
 
 ### Functionality / features
 
-Register New User
-User Login
-User Authentication
-User Profile page creation
+  - Register New User
+  - User Login
+  - User Authentication
+  - User Profile page creation
 
 
 ### Target audience
