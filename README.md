@@ -4,9 +4,9 @@ Readme file for Part A of final Coder Academy project, designing and planning a 
 
 ## Description of your website, including:
 
-- Purpose
+### Purpose
 
-- Functionality / features
+### Functionality / features
 
 Register New User
 User Login
@@ -14,10 +14,9 @@ User Authentication
 User Profile page creation
 
 
+### Target audience
 
-- Target audience
-
-- Tech stack
+### Tech stack
 
 ## Data Flow Diagram
 
