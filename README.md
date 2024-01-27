@@ -4,19 +4,43 @@ Readme file for Part A of final Coder Academy project, designing and planning a 
 
 ## Description of your website, including:
 
+Video Game Social Media App
+- Think subreddit for games, a community specifc to video game discussion (or video game development?)
+- Social Media for video game communities or forums
+- Maybe posts are always tied to a specific game (with tags) 
+- 
+
 ### Purpose
+
+
 
 ### Functionality / features
 
-  - Register New User
-  - User Login
-  - User Authentication
-  - User Profile page creation
+- User Registration and Login
+- User Authentication
+- User Profile page creation
+
+- Profile Viewing
+
+- Chat
+  - Private Messaging option between users
+  - Users can create a group to for mulitple users chat
+  - Send and receive media in chat such as photos, videos or documents
+  - Encryption of messages
+  - Indicators for to know the status of the a sent message (read, received)
+  - Push notification alerts
+
+- Upload and View Content
+  - Videos
+  - Pictures
+  - Comments
 
 
 ### Target audience
 
+
 ### Tech stack
+
 
 ## Data Flow Diagram
 
