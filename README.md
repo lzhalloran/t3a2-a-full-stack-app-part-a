@@ -10,17 +10,33 @@ Video Game Community Social Media App
 
 
 ### Purpose
+
+Social Gaming Forum app
+
 There are currently a lot platforms for video game engagment, this aiming to solve that be being single social platform to for gaming enthuiasts to chat, be informed and connect. The aim is to provide a platform for gamers to conntect, chat, share content, follow gaming news, updates and explore new games.
 
-Minimum Viable Product
+#### Minimum Viable Product
 - Realtime Chat
-- User creation, login and authentication
+  - Private Messaging option between users
+- User creation, login, authentication, profile
+  - Follow game communities
+  - Add friends
 - User timeline
-  - 
+  - View posts from followed communities
 - Game community pages
   - Posts
   - Comments
- 
+
+#### Extended Features
+- User creation wiht OAuth
+- Group Chat
+  - Private messaging between a group of users
+- Timeline
+  - Share post from communities, friends will see the shared post in their timeline
+  - Like posts from communities
+- Explore feature
+  - explore games that you don't follow
+- Embedded Media (Videos / pictures)
 
 
 ### Functionality / features
@@ -28,6 +44,8 @@ Minimum Viable Product
 - User Registration and Login
 - User Authentication
 - User Profile editing
+  - Account settings
+  - Profile Picture
 
 - Chat
   - Private Messaging option between users
