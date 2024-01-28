@@ -38,7 +38,6 @@ There are currently a lot platforms for video game engagment, this aiming to sol
   - explore games that you don't follow
 - Embedded Media (Videos / pictures)
 
-
 ### Functionality / features
 
 - User Registration and Login
