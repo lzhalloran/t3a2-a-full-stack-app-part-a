@@ -2,7 +2,7 @@
 Readme file for Part A of final Coder Academy project, designing and planning a Full Stack MERN App
 
 
-## Description of your website, including:
+## Description of the website:
 
 Video Game Social Media App
 - Think subreddit for games, a community specific to video game discussion (or video game development?)
@@ -53,6 +53,27 @@ To provide a platform for gamers to chat, share content, and follow gaming news,
 - Anyone interested in Games, Game Development or Game-related content
 
 ### Tech stack
+- MERN:
+  - MongoDB
+  - Express.js
+  - React
+  - Node.js
+- Packages:
+  - dot-env
+  - mongoose
+  - express
+  - react
+  - (Socket?)
+  - Encryption:
+    - bcrypt
+    - cors
+    - helmet
+    - jsonwebtoken
+  - Dev Dependencies:
+    - nodemon
+    - jest
+- External APIs:
+  - ...
 
 
 ## Data Flow Diagram
