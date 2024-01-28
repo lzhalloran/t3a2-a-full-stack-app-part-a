@@ -21,6 +21,8 @@ Video Game Social Media App
 - User Profile page creation
 
 - Profile Viewing
+  - do profiles show user content (a timeline to post to i.e. facebook? or instagram)
+  - Or is it more a community based app with user-created or company-created public pages that you peruse and interact with and post to like redit
 
 - Chat
   - Private Messaging option between users
