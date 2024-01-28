@@ -47,7 +47,10 @@ To provide a platform for gamers to chat, share content, and follow gaming news,
   - Support for various forms of content as above
 
 ### Target audience
-
+- Gamers
+- Game developers
+- Content Creators / Streamers
+- Anyone interested in Games, Game Development or Game-related content
 
 ### Tech stack
 
