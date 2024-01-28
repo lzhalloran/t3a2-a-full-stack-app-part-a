@@ -11,7 +11,7 @@ Video Game Social Media App
 - 
 
 ### Purpose
-
+To provide a platform for gamers to chat, share content, and follow gaming news, updates and game development progress ? (something along those lines)
 
 
 ### Functionality / features
