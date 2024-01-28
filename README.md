@@ -1,30 +1,33 @@
 # t3a2-a-full-stack-app-part-a
 Readme file for Part A of final Coder Academy project, designing and planning a Full Stack MERN App
 
-
 ## Description of the website:
 
 Video Game Community Social Media App
 - Think subreddit for games, a community specific to video game discussion (or video game development?)
 - Social Media for video game communities or forums
-- Maybe posts are always tied to a specific game (with tags) 
-- 
+- Maybe posts are always tied to a specific game (with tags)
+
 
 ### Purpose
-To provide a platform for gamers to chat, share content, and follow gaming news, updates and game development progress ? (something along those lines)
+There are currently a lot platforms for video game engagment, this aiming to solve that be being single social platform to for gaming enthuiasts to chat, be informed and connect. The aim is to provide a platform for gamers to conntect, chat, share content, follow gaming news, updates and explore new games.
 
-- starting to feel a little bit like a mix between reddit and twitter
+Minimum Viable Product
+- Realtime Chat
+- User creation, login and authentication
+- User timeline
+  - 
+- Game community pages
+  - Posts
+  - Comments
+ 
 
 
 ### Functionality / features
 
 - User Registration and Login
 - User Authentication
-- User Profile page creation
-
-- Profile Viewing
-  - do profiles show user content (a timeline to post to like facebook/instagram or maybe more like twitter/reddit, where it shows your post and comments or maybe the profile is just something you curate yourself like myspace)
-  - Or is it more a community based app with user-created or company-created public pages that you peruse and interact with and post to like redit
+- User Profile editing
 
 - Chat
   - Private Messaging option between users
@@ -33,16 +36,28 @@ To provide a platform for gamers to chat, share content, and follow gaming news,
   - Encryption of messages
   - Indicators to know the status of a sent message (read, received)
   - Push notification alerts
-  - Emoji support ?
-  - Gif integration ?
+  - Emoji support
+  - Gif integration
   - Clickable links
-  - React to messages ?
+  - React to messages
 
-- Upload and View Content
+- Explore page
+  - list of a galley of game pages to follow
+
+- User Upload and View Content
   - Videos
   - Embed Youtube Videos
   - Pictures
   - Comments
+
+- Game manager upload content
+  - videos
+  - posts
+
+- User Timeline Feed
+  - posts from communities you are in / follow
+  - shared posts from friends
+ 
 
 - User-Created Public Pages ?
     - (are user created public pages tied to a game)
@@ -50,9 +65,6 @@ To provide a platform for gamers to chat, share content, and follow gaming news,
   - Support for various forms of content as above
   - Admin powers for kick, ban, approve users
  
-- Feed
-  - posts from communities you are in / follow
-  - 
 
 ### Target audience
 - Gamers
