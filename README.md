@@ -5,7 +5,7 @@ Readme file for Part A of final Coder Academy project, designing and planning a 
 ## Description of your website, including:
 
 Video Game Social Media App
-- Think subreddit for games, a community specifc to video game discussion (or video game development?)
+- Think subreddit for games, a community specific to video game discussion (or video game development?)
 - Social Media for video game communities or forums
 - Maybe posts are always tied to a specific game (with tags) 
 - 
@@ -24,17 +24,25 @@ Video Game Social Media App
 
 - Chat
   - Private Messaging option between users
-  - Users can create a group to for mulitple users chat
+  - Users can create a group for multiple users to chat
   - Send and receive media in chat such as photos, videos or documents
   - Encryption of messages
-  - Indicators for to know the status of the a sent message (read, received)
+  - Indicators to know the status of a sent message (read, received)
   - Push notification alerts
+  - Emoji support ?
+  - Gif integration ?
+  - Clickable links
+  - React to messages ?
 
 - Upload and View Content
   - Videos
+  - Embed Youtube Videos
   - Pictures
   - Comments
 
+- User-Created Public Pages ?
+  - Messages / Public Posts ?
+  - Support for various forms of content as above
 
 ### Target audience
 
