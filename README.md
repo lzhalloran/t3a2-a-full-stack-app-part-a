@@ -121,6 +121,41 @@ There are currently a lot platforms for video game engagment, this aiming to sol
 
 ## User Stories
 
+*For example, user stories might look like:*
+*As Max, I want to invite my friends, so we can enjoy this service together.*
+*As Sascha, I want to organize my work, so I can feel more in control. *
+*As a manager, I want to be able to understand my colleagues progress, so I can better report our sucess and failures.*
+
+### User 1
+
+#### User Story Statement
+As a Game Developer, I want to implement a community page for my game to build interest and awareness before the launch, so that more people will be excited about and aware of my game.
+
+#### Criteria
+- Ability to create a responsive landing page accessible from various devices.
+- Include a brief game description, and key features.
+- Implement social media sharing buttons for easy sharing.
+- Provide a "Follow" button for users to receive post notifications
+- Ability to post videos, concept art, screenshots.
+
+#### Dependencies
+
+####
+
+### User 2
+
+#### User Story Statment
+As a User, I want to share my game interests with my friends, so that they might play them with me when they release
+
+#### Criteria
+
+
+### User 3
+
+#### User Story Statment
+As a Community Manager, I want to be able to give feedback and updates to players quickly, so that they kept up to date with important information
+
+#### Criteria
 
 ## Wireframes for multiple standard screen sizes, created using industry standard software
 
