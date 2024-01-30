@@ -113,10 +113,14 @@ There are currently a lot platforms for video game engagment, this aiming to sol
   - ...
 
 
-## Data Flow Diagram
-
-
 ## Application Architecture Diagram
+
+The below diagram outlines the architecture of this application:
+
+![Social Gaming Forum Application architecture](/docs/ApplicationArchitectureDiagram.png)
+
+## Data Flow Diagrams
+
 
 
 ## User Stories
