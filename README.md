@@ -130,7 +130,9 @@ The below diagram outlines the architecture of this application:
 *As Sascha, I want to organize my work, so I can feel more in control. *
 *As a manager, I want to be able to understand my colleagues progress, so I can better report our sucess and failures.*
 
-### User 1
+### User Story 1
+
+#### ID: User-01
 
 #### User Story Statement
 As a Game Developer, I want to implement a community page for my game to build interest and awareness before the launch, so that more people will be excited about and aware of my game.
@@ -144,7 +146,14 @@ As a Game Developer, I want to implement a community page for my game to build i
 
 #### Dependencies
 
-####
+Identify any dependencies or prerequisites required for implementing the user story.
+
+#### Revision History for User-01:
+Version 1: Initial story
+
+Version 2: Updated because of “something” etc
+
+Version 3: Revised to include a function after testing etc
 
 ### User 2
 
