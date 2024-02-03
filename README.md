@@ -121,7 +121,9 @@ The below diagram outlines the architecture of this application:
 
 ## Data Flow Diagrams
 
+The below diagrams show the flow of data of the application: 
 
+![User Data Flow](/docs/UserDataFlow.png)
 
 ## User Stories
 
