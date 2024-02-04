@@ -174,6 +174,13 @@ As a Community Manager, I want to be able to give feedback and updates to player
 
 ## Wireframes for multiple standard screen sizes, created using industry standard software
 
+Start thinking about the different pages to include for wire frames
+
+- Timeline Page
+- Explore Page
+- Game landing Page
+- Group Community Page
+- Profile Page
 
 ## Screenshots of your Trello board throughout the duration of the project
 
