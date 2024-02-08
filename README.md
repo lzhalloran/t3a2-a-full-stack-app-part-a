@@ -43,8 +43,8 @@ There are currently a lot platforms for video game engagment, this aiming to sol
 - User Registration and Login
 - User Authentication
 - User Profile editing
-  - Account settings
-  - Profile Picture
+  - account settings
+  - Profile picture
 
 - Chat
   - Private Messaging option between users
@@ -185,12 +185,12 @@ Story ID: User-04
 As a user I want to be able to browse through various posts and game pages
 
 #### Criteria
+- Intuitive Navigation
 
 #### Dependencies
 
 #### Revision History for User-04
 Version 1: ...
-
 
 ### User Story 5
 Story ID: User-05
@@ -199,6 +199,7 @@ Story ID: User-05
 As a user I want to be able filter posts and sort posts based on criteria
 
 #### Criteria
+- Efficient Filtering and Sorting Options
 
 #### Dependencies
 
@@ -212,6 +213,7 @@ Story ID: User-06
 As a user I want to be able to view posts, content, and media attachments
 
 #### Criteria
+- Clear Presentation of Post Titles, Content, and Media
 
 #### Dependencies
 
@@ -227,6 +229,7 @@ Story ID: User-07
 As a user I want to be able create new posts in specfic game pages
 
 #### Criteria
+- User friendly post creation interface
 
 #### Dependencies
 
@@ -240,7 +243,7 @@ Story ID: User-08
 As a user I want to be able to include text, images and links in the posts I create
 
 #### Criteria
-
+- Support for text, images, liks and media attachements
 #### Dependencies
 
 #### Revision History for User-08
@@ -253,6 +256,7 @@ Story ID: User-09
 As a user I want to be able edit and delete my own posts.
 
 #### Criteria
+- User ability to edit and delete posts
 
 #### Dependencies
 
@@ -268,6 +272,8 @@ Story ID: User-10
 As a user I want to be able react to posts, like or emoji reactions
 
 #### Criteria
+- Visual indicators for reactted content
+- Real time react count updates
 
 #### Dependencies
 
@@ -281,6 +287,7 @@ Story ID: User-11
 As a user I want to be able share posts to friends
 
 #### Criteria
+- Share post feature
 
 #### Dependencies
 
@@ -296,39 +303,158 @@ Story ID: User-12
 As a user I want to be able follow specfic games, to customise my feed
 
 #### Criteria
+- Game subscription/follow management
 
 #### Dependencies
 
 #### Revision History for User-12
 Version 1: ...
 
-### User Story 12
-Story ID: User-12
+### User Story 13
+Story ID: User-13
 
 #### User Story Statement
 As a user I want to be able to join discussions by commenting on posts.
 
 #### Criteria
+- User ability to comment on posts/join discussion
 
 #### Dependencies
 
 #### Revision History for User-13
 Version 1: ...
 
-### User Story 13
-Story ID: User-12
+### User Story 14
+Story ID: User-14
 
 #### User Story Statement
 As a user I want to be able recieve notifications for replies from posts, and important updates from games
 
 #### Criteria
+- Notification feature for replies and updates from games
 
 #### Dependencies
 
-#### Revision History for User-13
+#### Revision History for User-14
 Version 1: ...
 
 *Moderation and Administration*
+
+### User Story 15
+Story ID: User-15
+
+#### User Story Statement
+As a developer, I want to be able to create a page for my game
+
+#### Criteria
+- Tools to allow
+
+#### Dependencies
+
+#### Revision History for User-15
+Version 1: ...
+
+### User Story 15
+Story ID: User-15
+
+#### User Story Statement
+As a moderator, I want to be able to manage posts and comments within my game page.
+
+#### Criteria
+
+#### Dependencies
+
+#### Revision History for User-15
+Version 1: ...
+
+
+### User Story 16
+Story ID: User-16
+
+#### User Story Statement
+As an administrator, I want to have the ability to manage overall site settings, user accounts, and reported content
+
+#### Criteria
+
+#### Dependencies
+
+#### Revision History for User-16
+Version 1: ...
+
+*Accessibility and Usability*
+
+### User Story 17
+Story ID: User-17
+
+#### User Story Statement
+As a user I want the website to be responsive and accessible across multiple different devices
+
+#### Criteria
+
+#### Dependencies
+
+#### Revision History for User-17
+Version 1: ...
+
+
+### User Story 18
+Story ID: User-18
+
+#### User Story Statement
+As a user I want the app to have clear navigation and intuitive UI elements for ease of use
+
+#### Criteria
+
+#### Dependencies
+
+#### Revision History for User-18
+Version 1: ...
+
+*Search*
+
+### User Story 19
+Story ID: User-19
+
+#### User Story Statement
+As a user I want to be able to search for posts, games or users
+
+#### Criteria
+- Create a search bar that searchs through matching user names, games and relevant posts
+
+#### Dependencies
+
+#### Revision History for User-19
+Version 1: ...
+
+### User Story 20
+Story ID: User-20
+
+#### User Story Statement
+As a user I want to be able to discover new games or trending topics based on my interests
+
+#### Criteria
+- Create an explore page that shows trending content, and content that share tags with the games you follow
+ 
+#### Dependencies
+
+#### Revision History for User-20
+Version 1: ...
+
+### User Story 20
+Story ID: User-20
+
+#### User Story Statement
+As a user I want to be able to discover new games or trending topics based on my interests
+
+#### Criteria
+- Create an explore page that shows trending content, and content that share tags with the games you follow
+ 
+#### Dependencies
+
+#### Revision History for User-20
+Version 1: ...
+
+---
 
 #### Story ID 
 User-0
@@ -354,20 +480,14 @@ Version 2: Updated because of “something” etc
 
 Version 3: Revised to include a function after testing etc
 
-### User 2
-
-#### User Story Statment
-As a User, I want to share my game interests with my friends, so that they might play them with me when they release
-
-#### Criteria
-
-
 ### User 3
 
 #### User Story Statment
 As a Community Manager, I want to be able to give feedback and updates to players quickly, so that they kept up to date with important information
 
 #### Criteria
+
+---
 
 ## Wireframes for multiple standard screen sizes, created using industry standard software
 
