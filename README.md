@@ -123,7 +123,7 @@ The below diagram outlines the architecture of this application:
 
 The below diagrams show the flow of data of the application: 
 
-![User Data Flow](/docs/UserDataFlow.png)
+![Data Flow](/docs/DataFlow.png)
 
 ## User Stories
 
