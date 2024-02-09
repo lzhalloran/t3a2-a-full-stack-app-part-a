@@ -354,8 +354,8 @@ As a developer, I want to be able to create a page for my game
 #### Revision History for User-15
 Version 1: ...
 
-### User Story 15
-Story ID: User-15
+### User Story 16
+Story ID: User-16
 
 #### User Story Statement
 As a moderator, I want to be able to manage posts and comments within my game page.
@@ -364,12 +364,12 @@ As a moderator, I want to be able to manage posts and comments within my game pa
 
 #### Dependencies
 
-#### Revision History for User-15
+#### Revision History for User-16
 Version 1: ...
 
 
-### User Story 16
-Story ID: User-16
+### User Story 17
+Story ID: User-17
 
 #### User Story Statement
 As an administrator, I want to have the ability to manage overall site settings, user accounts, and reported content
@@ -378,13 +378,13 @@ As an administrator, I want to have the ability to manage overall site settings,
 
 #### Dependencies
 
-#### Revision History for User-16
+#### Revision History for User-17
 Version 1: ...
 
 *Accessibility and Usability*
 
-### User Story 17
-Story ID: User-17
+### User Story 18
+Story ID: User-18
 
 #### User Story Statement
 As a user I want the website to be responsive and accessible across multiple different devices
@@ -393,12 +393,12 @@ As a user I want the website to be responsive and accessible across multiple dif
 
 #### Dependencies
 
-#### Revision History for User-17
+#### Revision History for User-18
 Version 1: ...
 
 
-### User Story 18
-Story ID: User-18
+### User Story 19
+Story ID: User-19
 
 #### User Story Statement
 As a user I want the app to have clear navigation and intuitive UI elements for ease of use
@@ -407,13 +407,13 @@ As a user I want the app to have clear navigation and intuitive UI elements for 
 
 #### Dependencies
 
-#### Revision History for User-18
+#### Revision History for User-19
 Version 1: ...
 
 *Search*
 
-### User Story 19
-Story ID: User-19
+### User Story 20
+Story ID: User-20
 
 #### User Story Statement
 As a user I want to be able to search for posts, games or users
@@ -423,11 +423,11 @@ As a user I want to be able to search for posts, games or users
 
 #### Dependencies
 
-#### Revision History for User-19
+#### Revision History for User-20
 Version 1: ...
 
-### User Story 20
-Story ID: User-20
+### User Story 21
+Story ID: User-21
 
 #### User Story Statement
 As a user I want to be able to discover new games or trending topics based on my interests
@@ -437,11 +437,11 @@ As a user I want to be able to discover new games or trending topics based on my
  
 #### Dependencies
 
-#### Revision History for User-20
+#### Revision History for User-21
 Version 1: ...
 
-### User Story 20
-Story ID: User-20
+### User Story 22
+Story ID: User-22
 
 #### User Story Statement
 As a user I want to be able to discover new games or trending topics based on my interests
@@ -451,7 +451,7 @@ As a user I want to be able to discover new games or trending topics based on my
  
 #### Dependencies
 
-#### Revision History for User-20
+#### Revision History for User-22
 Version 1: ...
 
 ---
