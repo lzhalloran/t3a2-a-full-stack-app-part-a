@@ -499,5 +499,42 @@ Start thinking about the different pages to include for wire frames
 - Group Community Page
 - Profile Page
 
-## Screenshots of your Trello board throughout the duration of the project
+## Trello Board Screenshots
+The Trello Board used for this project is available [here](https://trello.com/invite/b/nAU98IPU/ATTIf939cd062b458d6c45c964efc5ffb3ee12208611/chatclient).
 
+### 28th Jan, 2024
+![Trello Screenshot](/docs/trello00.png)
+
+![Trello Screenshot](/docs/trello01.png)
+
+![Trello Screenshot](/docs/trello02.png)
+
+### 29th Jan, 2024
+
+![Trello Screenshot](/docs/trello03.png)
+
+### 30th Jan, 2024
+
+![Trello Screenshot](/docs/trello04.png)
+
+### 1st Feb, 2024
+
+![Trello Screenshot](/docs/trello05.png)
+
+### 4th Feb, 2024
+
+![Trello Screenshot](/docs/trello06.png)
+
+### 9th Feb, 2024
+
+![Trello Screenshot](/docs/trello07.png)
+
+![Trello Screenshot](/docs/trello08.png)
+
+### 13th Feb, 2024
+
+![Trello Screenshot](/docs/trello09.png)
+
+### 14th Feb, 2024
+
+![Trello Screenshot](/docs/trello10.png)
