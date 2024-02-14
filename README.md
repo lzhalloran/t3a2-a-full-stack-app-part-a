@@ -1,22 +1,18 @@
 # t3a2-a-full-stack-app-part-a
-Readme file for Part A of final Coder Academy project, designing and planning a Full Stack MERN App
+Part A of a Coder Academy final project, designing and planning a Full Stack MERN App
 
-## Description of the website:
+## Website Description
 
-Video Game Community Social Media App
-- Think subreddit for games, a community specific to video game discussion (or video game development?)
-- Social Media for video game communities or forums
-- Maybe posts are always tied to a specific game (with tags)
+A Video Game Social Platform that features User Chat, Posts, and Profile features, along with Game News, Updates and Communities.
 
+### Purpose
 
-## Purpose
+There are currently a lot of platforms for video game engagement which offer different combinations of features, but do not provide a single platform for game news, communities and chat. This aims to solve that be being the single social platform for gaming enthuiasts to chat, be informed and connect. The aim is to provide a platform for gamers to connect, chat, share content, follow gaming news, updates and explore new games.
 
-Social Gaming Forum app
+### Functionality / Features
 
-There are currently a lot platforms for video game engagment, this aiming to solve that be being single social platform to for gaming enthuiasts to chat, be informed and connect. The aim is to provide a platform for gamers to conntect, chat, share content, follow gaming news, updates and explore new games.
-
-### Minimum Viable Product
-- Realtime Chat
+#### Minimum Viable Product
+- Event-driven Chat (WebSocket)
   - Private Messaging option between users
 - User creation, login, authentication, profile
   - Follow game communities
@@ -27,27 +23,16 @@ There are currently a lot platforms for video game engagment, this aiming to sol
   - Posts
   - Comments
 
-### Extended Features
-- User creation wiht OAuth
-- Group Chat
-  - Private messaging between a group of users
+#### Extended Features
+- User creation with OAuth
 - Timeline
   - Share post from communities, friends will see the shared post in their timeline
   - Like posts from communities
 - Explore feature
   - explore games that you don't follow
 - Embedded Media (Videos / pictures)
-
-## Functionality / features
-
-- User Registration and Login
-- User Authentication
-- User Profile editing
-  - account settings
-  - Profile picture
-
+- Message / User / Typing status indicators for chat
 - Chat
-  - Private Messaging option between users
   - Users can create a group for multiple users to chat
   - Send and receive media in chat such as photos, videos or documents
   - Encryption of messages
@@ -57,39 +42,31 @@ There are currently a lot platforms for video game engagment, this aiming to sol
   - Gif integration
   - Clickable links
   - React to messages
-
 - Explore page
-  - list of a galley of game pages to follow
-
+  - Trending or suggested games listed
 - User Upload and View Content
   - Videos
   - Embed Youtube Videos
   - Pictures
-  - Comments
-
-- Game manager upload content
-  - videos
-  - posts
-
+- Game manager uploaded content
+  - Posts
+  - Videos
 - User Timeline Feed
-  - posts from communities you are in / follow
-  - shared posts from friends
+  - Shared posts from friends
+ - User-Created Community pages
+    - User created public pages tied to a game
+    - Posts
+    - Support for various forms of content as above
+    - Admin powers for kick, ban, approve users
  
 
-- User-Created Public Pages ?
-    - (are user created public pages tied to a game)
-  - Messages / Public Posts ?
-  - Support for various forms of content as above
-  - Admin powers for kick, ban, approve users
- 
-
-## Target audience
+### Target Audience
 - Gamers
-- Game developers
+- Game Developers
 - Content Creators / Streamers
 - Anyone interested in Games, Game Development or Game-related content
 
-## Tech stack
+### Tech stack
 - MERN:
   - MongoDB
   - Express.js
@@ -100,7 +77,6 @@ There are currently a lot platforms for video game engagment, this aiming to sol
   - mongoose
   - express
   - react
-  - (Socket?)
   - Encryption:
     - bcrypt
     - cors
@@ -110,7 +86,8 @@ There are currently a lot platforms for video game engagment, this aiming to sol
     - nodemon
     - jest
 - External APIs:
-  - ...
+  - WebSocket
+  - OAuth
 
 
 ## Application Architecture Diagram
