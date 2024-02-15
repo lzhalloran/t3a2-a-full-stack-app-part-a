@@ -472,38 +472,63 @@ Start thinking about the different pages to include for wire frames
 
 ### Timeline Page
 
-#### Desktop
+#### News Timeline
 ![Desktop News Timeline](/docs/web-timeline-news.png)
-![Desktop Community Timeline](/docs/web-timeline-community.png)
+![Mobile News Timeline](/docs/mobile-timeline-news.png)
 
-#### Mobile
-![Mobile News Timeline](/docs/mobile-news-timeline.png)
+#### Community Timeline
+![Desktop Community Timeline](/docs/web-timeline-community.png)
 ![Mobile Community Timeline](/docs/mobile-timeline-community.png)
+
+### Game Landing Page
+
+#### Game News
+![Desktop Game News Page](/docs/web-game-news-timeline.png)
+![Mobile Game News Page](/docs/mobile-game-news-timeline.png)
+
+#### Game Community
+![Desktop Game Community Page](/docs/web-game-community-timeline.png)
+![Mobile Game Community Page](/docs/mobile-)
+
+#### Game About
+![Desktop Game About Page](/docs/web-game-about.png)
+![Mobile Game About Page](/docs/mobile-game-about.png)
 
 ### Explore page
 
-#### Desktop
 ![Desktop Explore Page](/docs/web-explore.png)
-
-#### Mobile
 ![Mobile Explore Page](/docs/mobile-explore.png)
 
-### Game Landing Page
+### Chats page
+![Desktop Chat](/docs/web-chat.png)
+![Mobile Chat](/docs/mobile-chat.png)
 
-#### Desktop
-![Game News Page](/docs/web-game-news-timeline.png)
-![Game Community Page](/docs/web-game-community-timeline.png)
-![Game About Page](/docs/web-game-about.png.png)
+### Friends
+![Desktop Friends](/docs/web-friends.png)
+![Mobile Friends](/docs/mobile-friends.png)
 
-#### Mobile
-![Game News Page](/docs/mobile-explore.png)
+### Notifications
+![Desktop Notifications](/docs/web-notifications.png)
+![Mobile Notifications](/docs/mobile-notifications.png)
 
-### Game Landing Page
-#### Desktop
-#### Mobile
-- Game landing Page
-- Group Community Page
-- Profile Page
+### Settings
+
+#### Account Settings
+![Desktop Account Settings](/docs/web-user-account-settings.png)
+![Mobile Account Settings](/docs/mobile-user-account-settings.png)
+
+#### Profile Settings
+![Desktop Profile Settings](/docs/web-user-profile-settings.png)
+![Mobile Profile Settings](/docs/mobile-user-profile-settings.png)
+
+### Sidebar Navigation
+
+#### Friends
+![Desktop Sidebar Friends](/docs/web-sidebar-nav-friends.png)
+#### Chat
+![Desktop Sidebar Chat](/docs/web-sidebar-nav-chat.png)
+#### Notification
+![Desktop Sidebar Notifications](/docs/web-sidebar-nav-notifications.png)
 
 
 
