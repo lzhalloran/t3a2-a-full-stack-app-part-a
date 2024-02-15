@@ -466,15 +466,78 @@ As a Community Manager, I want to be able to give feedback and updates to player
 
 ---
 
-## Wireframes for multiple standard screen sizes, created using industry standard software
+## Wireframes
 
-Start thinking about the different pages to include for wire frames
+### Timeline Page
 
-- Timeline Page
-- Explore Page
-- Game landing Page
-- Group Community Page
-- Profile Page
+#### News Timeline
+![Desktop News Timeline](/docs/web-timeline-news.png)
+![Mobile News Timeline](/docs/mobile-timeline-news.png)
+
+#### Community Timeline
+![Desktop Community Timeline](/docs/web-timeline-community.png)
+![Mobile Community Timeline](/docs/mobile-timeline-community.png)
+
+### Game Landing Page
+
+#### Game News
+![Desktop Game News Page](/docs/web-game-news-timeline.png)
+![Mobile Game News Page](/docs/mobile-game-news-timeline.png)
+
+#### Game Community
+![Desktop Game Community Page](/docs/web-game-community-timeline.png)
+![Mobile Game Community Page](/docs/mobile-)
+
+#### Game About
+![Desktop Game About Page](/docs/web-game-about.png)
+![Mobile Game About Page](/docs/mobile-game-about.png)
+
+### Explore page
+
+![Desktop Explore Page](/docs/web-explore.png)
+![Mobile Explore Page](/docs/mobile-explore.png)
+
+### Chats page
+![Desktop Chat](/docs/web-chat.png)
+![Mobile Chat](/docs/mobile-chat.png)
+
+### Friends
+![Desktop Friends](/docs/web-friends.png)
+![Mobile Friends](/docs/mobile-friends.png)
+
+### Notifications
+![Desktop Notifications](/docs/web-notifications.png)
+![Mobile Notifications](/docs/mobile-notifications.png)
+
+### Settings
+
+#### Account Settings
+![Desktop Account Settings](/docs/web-user-account-settings.png)
+![Mobile Account Settings](/docs/mobile-user-account-settings.png)
+
+#### Profile Settings
+![Desktop Profile Settings](/docs/web-user-profile-settings.png)
+![Mobile Profile Settings](/docs/mobile-user-profile-settings.png)
+
+### Sidebar Navigation
+
+#### Friends
+![Desktop Sidebar Friends](/docs/web-sidebar-nav-friends.png)
+#### Chat
+![Desktop Sidebar Chat](/docs/web-sidebar-nav-chat.png)
+#### Notification
+![Desktop Sidebar Notifications](/docs/web-sidebar-nav-notifications.png)
+
+### Posting
+
+#### Create a Post
+![Desktop Create a Post](/docs/web-create-post.png)
+![Mobile Create a Post](/docs/mobile-create-post.png)
+
+#### Comment on a post
+![Desktop Comment on a Post](/docs/web-comment-on-post.png)
+![Mobile Comment on a Post](/docs/mobile-comment-on-post.png)
+
 
 ## Trello Board Screenshots
 The Trello Board used for this project is available [here](https://trello.com/invite/b/nAU98IPU/ATTIf939cd062b458d6c45c964efc5ffb3ee12208611/chatclient).
