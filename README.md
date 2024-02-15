@@ -470,11 +470,42 @@ As a Community Manager, I want to be able to give feedback and updates to player
 
 Start thinking about the different pages to include for wire frames
 
-- Timeline Page
-- Explore Page
+### Timeline Page
+
+#### Desktop
+![Desktop News Timeline](/docs/web-timeline-news.png)
+![Desktop Community Timeline](/docs/web-timeline-community.png)
+
+#### Mobile
+![Mobile News Timeline](/docs/mobile-news-timeline.png)
+![Mobile Community Timeline](/docs/mobile-timeline-community.png)
+
+### Explore page
+
+#### Desktop
+![Desktop Explore Page](/docs/web-explore.png)
+
+#### Mobile
+![Mobile Explore Page](/docs/mobile-explore.png)
+
+### Game Landing Page
+
+#### Desktop
+![Game News Page](/docs/web-game-news-timeline.png)
+![Game Community Page](/docs/web-game-community-timeline.png)
+![Game About Page](/docs/web-game-about.png.png)
+
+#### Mobile
+![Game News Page](/docs/mobile-explore.png)
+
+### Game Landing Page
+#### Desktop
+#### Mobile
 - Game landing Page
 - Group Community Page
 - Profile Page
+
+
 
 ## Trello Board Screenshots
 The Trello Board used for this project is available [here](https://trello.com/invite/b/nAU98IPU/ATTIf939cd062b458d6c45c964efc5ffb3ee12208611/chatclient).
