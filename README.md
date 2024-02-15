@@ -466,9 +466,7 @@ As a Community Manager, I want to be able to give feedback and updates to player
 
 ---
 
-## Wireframes for multiple standard screen sizes, created using industry standard software
-
-Start thinking about the different pages to include for wire frames
+## Wireframes
 
 ### Timeline Page
 
@@ -530,6 +528,15 @@ Start thinking about the different pages to include for wire frames
 #### Notification
 ![Desktop Sidebar Notifications](/docs/web-sidebar-nav-notifications.png)
 
+### Posting
+
+#### Create a Post
+![Desktop Create a Post](/docs/web-create-post.png)
+![Mobile Create a Post](/docs/mobile-create-post.png)
+
+#### Comment on a post
+![Desktop Comment on a Post](/docs/web-comment-on-post.png)
+![Mobile Comment on a Post](/docs/mobile-comment-on-post.png)
 
 
 ## Trello Board Screenshots
