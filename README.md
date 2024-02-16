@@ -119,7 +119,8 @@ As a new user, I want to be able to register for an account.
 
 #### Dependencies
 - Creating a sign up/create account landing page for users
-- Implement a automatication sent email to provided user email account, that activates the account when clicked
+- Implement a automatated email to provided user email account, that activates the account when clicked
+- Register and Authentication routes in Backend
 
 #### Revision History for User-01
 Version 1: ...
@@ -135,7 +136,8 @@ As a registered user, I want to be able to log in securely to access the app's f
 - Authentication mechanisms should be secure to prevent unauthorised access.
 
 #### Dependencies
-- Implement password hashing and encryption
+- Implement password hashing and encryption, JWT
+- Login Route, encryption, decryption, checking
 
 #### Revision History for User-02
 
@@ -150,6 +152,7 @@ As a registered user, I want the option to reset my password if I forget it.
 
 #### Dependencies
 - Create a user account settings page that enables them to change their settings
+- Update route for users, authentication / authorisation to update
 
 #### Revision History for User-03
 
@@ -163,8 +166,13 @@ As a user I want to be able to browse through various posts and game pages
 
 #### Criteria
 - Intuitive Navigation
+- Users should be able to View Posts by Community, Posts by Friends etc.
 
 #### Dependencies
+- News and Community Game Pages, ability to follow communities, Timelines of Shared Friends Content
+- Community CRUD routes in backend
+- Follow and Unfollow routes
+- Post CRUD routes
 
 #### Revision History for User-04
 Version 1: ...
@@ -177,8 +185,12 @@ As a user I want to be able filter posts and sort posts based on criteria
 
 #### Criteria
 - Efficient Filtering and Sorting Options
+- API support for queries
 
 #### Dependencies
+- Read routes with Query Parameters for Sorting, Filtering Posts
+- Posts CRUD implemented
+- Front end form elements for modifying query parameters
 
 #### Revision History for User-05
 Version 1: ...
@@ -191,8 +203,13 @@ As a user I want to be able to view posts, content, and media attachments
 
 #### Criteria
 - Clear Presentation of Post Titles, Content, and Media
+- Embedded / Uploaded Media
 
 #### Dependencies
+- Post CRUD
+- Embedded content support in backend
+- Links to hosted media saved in post
+- Viewing posts should display supported content correctly
 
 #### Revision History for User-06
 Version 1: ...
@@ -203,12 +220,18 @@ Version 1: ...
 Story ID: User-07
 
 #### User Story Statement
-As a user I want to be able create new posts in specfic game pages
+As a user I want to be able to create new posts in specfic game pages
 
 #### Criteria
 - User friendly post creation interface
+- Posts are associated with Users, and specific game pages
 
 #### Dependencies
+- Game Pages CRUD implemented
+- Game Page View implemented
+- Posts CRUD implemented
+- Create Route takes user and game into account
+- Front end form for creating a new post on the game page
 
 #### Revision History for User-07
 Version 1: ...
@@ -220,8 +243,12 @@ Story ID: User-08
 As a user I want to be able to include text, images and links in the posts I create
 
 #### Criteria
-- Support for text, images, liks and media attachements
+- Support for text, images, links and media attachments
+
 #### Dependencies
+- As User Story 6, plus
+- Support for embedded links and images, data saved in API, including links to images
+- Create post form support for inserting links, images, media attachments
 
 #### Revision History for User-08
 Version 1: ...
@@ -230,12 +257,17 @@ Version 1: ...
 Story ID: User-09
 
 #### User Story Statement
-As a user I want to be able edit and delete my own posts.
+As a user I want to be able to edit and delete my own posts.
 
 #### Criteria
 - User ability to edit and delete posts
+- Security to ensure users can only delete their posts
+- Game admins can delete posts
 
 #### Dependencies
+- Post CRUD
+- Authentication / Authorisation to determine who can edit/delete posts
+- Front end buttons / forms to edit and delete posts (if different from creating posts)
 
 #### Revision History for User-09
 Version 1: ...
@@ -246,13 +278,19 @@ Version 1: ...
 Story ID: User-10
 
 #### User Story Statement
-As a user I want to be able react to posts, like or emoji reactions
+As a user I want to be able to react to posts, like or emoji reactions
 
 #### Criteria
-- Visual indicators for reactted content
+- Visual indicators for reacted content
 - Real time react count updates
+- Support various emojis
 
 #### Dependencies
+- Posts CRUD
+- User Authentication
+- Reactions CRUD and backend
+- Front end support for various reacts
+- WebSocket for count updates.
 
 #### Revision History for User-10
 Version 1: ...
