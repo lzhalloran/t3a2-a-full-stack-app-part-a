@@ -264,9 +264,11 @@ Story ID: User-11
 As a user I want to be able share posts to friends
 
 #### Criteria
-- Share post feature
+- Users should be able to share posts to their friends within the app
+- Users should be able to share posts outside of the app
 
 #### Dependencies
+- Create a share button on each post, that will allow you to share the post internally and externally
 
 #### Revision History for User-11
 Version 1: ...
@@ -277,12 +279,16 @@ Version 1: ...
 Story ID: User-12
 
 #### User Story Statement
-As a user I want to be able follow specfic games, to customise my feed
+As a user I want to be able follow specfic games, to help customise my feed
 
 #### Criteria
-- Game subscription/follow management
+- Users should be able to follow and unfollow games when they want
+- Users should be able manage the games they follow
 
 #### Dependencies
+- Create a follow button on a games page
+- Follow button will toggle whether or not you see posts from that game in your feed
+- Create a page that lists all the games that you've followed
 
 #### Revision History for User-12
 Version 1: ...
@@ -291,12 +297,15 @@ Version 1: ...
 Story ID: User-13
 
 #### User Story Statement
-As a user I want to be able to join discussions by commenting on posts.
+As a user I want to be able to join discussions by commenting on posts
 
 #### Criteria
+- User ability to interacte with post
 - User ability to comment on posts/join discussion
 
 #### Dependencies
+- Create a comment button for posts
+- Create a page that shows all comments for the post
 
 #### Revision History for User-13
 Version 1: ...
@@ -305,12 +314,17 @@ Version 1: ...
 Story ID: User-14
 
 #### User Story Statement
-As a user I want to be able recieve notifications for replies from posts, and important updates from games
+As a user I want to be able recieve notifications for replies from posts, important updates from games and friend requests
 
 #### Criteria
-- Notification feature for replies and updates from games
+- A user should be able to easily see they have new notifications
+- The user should be able to quickly see notifications from their timeline page
+- There should also be a way to view the notifications as its own page
 
 #### Dependencies
+- Create a notification icon that shows that you have new notifications
+- Create a way to interact with that icon but doesn't obstructu user navigation
+- Create a seperate way to view all notifications
 
 #### Revision History for User-14
 Version 1: ...
@@ -321,29 +335,35 @@ Version 1: ...
 Story ID: User-15
 
 #### User Story Statement
-As a developer, I want to be able to create a page for my game
+As a developer, I want to be able to create and manage a page for my game
 
 #### Criteria
-- Tools to allow
+- Developer account should be able to create, edit and delete a game page
+- Create posts for that page
+- Moderate comments and community posts
 
 #### Dependencies
+- Implement a developer user with special privileges
+- Create a way for a user to be assigned as a developer
 
 #### Revision History for User-15
-Version 1: ...
+Version 1: 
 
 ### User Story 16
 Story ID: User-16
 
 #### User Story Statement
-As a moderator, I want to be able to manage posts and comments within my game page.
+As a moderator, I want to be able to manage posts and comments within my assigned game page.
 
 #### Criteria
+- A developer should be able to assign a user as a moderator for their game
 
 #### Dependencies
+- Implement a way for a developer to assign moderator privileges to a user
+- Give moderators privileges to manage post, comments (remove spam, ban users, respond to posts)
 
 #### Revision History for User-16
-Version 1: ...
-
+Version 1:
 
 ### User Story 17
 Story ID: User-17
@@ -352,8 +372,12 @@ Story ID: User-17
 As an administrator, I want to have the ability to manage overall site settings, user accounts, and reported content
 
 #### Criteria
+- User accounts should be able to be assigned as an admin account
+- Admin account should be able to manage user accounts, site settings and reported content effectively
 
 #### Dependencies
+- Implement an admin user with special privileges
+- Create a way for a user to get assigned as an admin
 
 #### Revision History for User-17
 Version 1: ...
@@ -367,12 +391,12 @@ Story ID: User-18
 As a user I want the website to be responsive and accessible across multiple different devices
 
 #### Criteria
+- User should be able to access website from multiple difference devices
+- The layout/accessbility shouldnt break between screen size differences
 
 #### Dependencies
-
-#### Revision History for User-18
-Version 1: ...
-
+- Implement css media queries for varying sizes of screens
+- Use response viewport units so website scales according to device screen size
 
 ### User Story 19
 Story ID: User-19
@@ -381,8 +405,10 @@ Story ID: User-19
 As a user I want the app to have clear navigation and intuitive UI elements for ease of use
 
 #### Criteria
+- Users should be able to access most navigation items from the timeline page
 
 #### Dependencies
+- Ensure that navigation is intuitive and easily accessible from any point within the app
 
 #### Revision History for User-19
 Version 1: ...
@@ -396,9 +422,12 @@ Story ID: User-20
 As a user I want to be able to search for posts, games or users
 
 #### Criteria
-- Create a search bar that searchs through matching user names, games and relevant posts
+- Users should have access to a search function
 
 #### Dependencies
+- Create a search bar that searchs through matching user names, games and relevant posts
+- Create contectual search bar, i.e. search bar within friends page only searchs users
+- Auto suggestions for search queries
 
 #### Revision History for User-20
 Version 1: ...
@@ -410,59 +439,14 @@ Story ID: User-21
 As a user I want to be able to discover new games or trending topics based on my interests
 
 #### Criteria
-- Create an explore page that shows trending content, and content that share tags with the games you follow
- 
+- User should be able to discover new games or topics with ease
+
 #### Dependencies
+- Create a page that shows a list of games within the database app
+- Create filters to better refine discoverability
 
 #### Revision History for User-21
 Version 1: ...
-
-### User Story 22
-Story ID: User-22
-
-#### User Story Statement
-As a user I want to be able to discover new games or trending topics based on my interests
-
-#### Criteria
-- Create an explore page that shows trending content, and content that share tags with the games you follow
- 
-#### Dependencies
-
-#### Revision History for User-22
-Version 1: ...
-
----
-
-#### Story ID 
-User-0
-
-#### User Story Statement
-As a Game Developer, I want to implement a community page for my game to build interest and awareness before the launch, so that more people will be excited about and aware of my game.
-
-#### Criteria
-- Ability to create a responsive landing page accessible from various devices.
-- Include a brief game description, and key features.
-- Implement social media sharing buttons for easy sharing.
-- Provide a "Follow" button for users to receive post notifications
-- Ability to post videos, concept art, screenshots.
-
-#### Dependencies
-
-Identify any dependencies or prerequisites required for implementing the user story.
-
-#### Revision History for User-0:
-Version 1: Initial story
-
-Version 2: Updated because of “something” etc
-
-Version 3: Revised to include a function after testing etc
-
-### User 3
-
-#### User Story Statment
-As a Community Manager, I want to be able to give feedback and updates to players quickly, so that they kept up to date with important information
-
-#### Criteria
 
 ---
 
