@@ -104,8 +104,6 @@ The below diagrams show the flow of data of the application:
 
 ## User Stories
 
-*User Registration and Authentication*
-
 ### User Story 1
 Story ID: User-01
 
@@ -122,9 +120,6 @@ As a new user, I want to be able to register for an account.
 - Implement a automatated email to provided user email account, that activates the account when clicked
 - Register and Authentication routes in Backend
 
-#### Revision History for User-01
-Version 1: ...
-
 ### User Story 2
 Story ID: User-02
 
@@ -139,8 +134,6 @@ As a registered user, I want to be able to log in securely to access the app's f
 - Implement password hashing and encryption, JWT
 - Login Route, encryption, decryption, checking
 
-#### Revision History for User-02
-
 ### User Story 3
 Story ID: User-03
 
@@ -153,10 +146,6 @@ As a registered user, I want the option to reset my password if I forget it.
 #### Dependencies
 - Create a user account settings page that enables them to change their settings
 - Update route for users, authentication / authorisation to update
-
-#### Revision History for User-03
-
-*Browsing Content*
 
 ### User Story 4
 Story ID: User-04
@@ -174,9 +163,6 @@ As a user I want to be able to browse through various posts and game pages
 - Follow and Unfollow routes
 - Post CRUD routes
 
-#### Revision History for User-04
-Version 1: ...
-
 ### User Story 5
 Story ID: User-05
 
@@ -191,9 +177,6 @@ As a user I want to be able filter posts and sort posts based on criteria
 - Read routes with Query Parameters for Sorting, Filtering Posts
 - Posts CRUD implemented
 - Front end form elements for modifying query parameters
-
-#### Revision History for User-05
-Version 1: ...
 
 ### User Story 6
 Story ID: User-06
@@ -210,11 +193,6 @@ As a user I want to be able to view posts, content, and media attachments
 - Embedded content support in backend
 - Links to hosted media saved in post
 - Viewing posts should display supported content correctly
-
-#### Revision History for User-06
-Version 1: ...
-
-*Content Creation*
 
 ### User Story 7
 Story ID: User-07
@@ -233,9 +211,6 @@ As a user I want to be able to create new posts in specfic game pages
 - Create Route takes user and game into account
 - Front end form for creating a new post on the game page
 
-#### Revision History for User-07
-Version 1: ...
-
 ### User Story 8
 Story ID: User-08
 
@@ -249,9 +224,6 @@ As a user I want to be able to include text, images and links in the posts I cre
 - As User Story 6, plus
 - Support for embedded links and images, data saved in API, including links to images
 - Create post form support for inserting links, images, media attachments
-
-#### Revision History for User-08
-Version 1: ...
 
 ### User Story 9
 Story ID: User-09
@@ -268,11 +240,6 @@ As a user I want to be able to edit and delete my own posts.
 - Post CRUD
 - Authentication / Authorisation to determine who can edit/delete posts
 - Front end buttons / forms to edit and delete posts (if different from creating posts)
-
-#### Revision History for User-09
-Version 1: ...
-
-*Interacting with content*
 
 ### User Story 10
 Story ID: User-10
@@ -292,9 +259,6 @@ As a user I want to be able to react to posts, like or emoji reactions
 - Front end support for various reacts
 - WebSocket for count updates.
 
-#### Revision History for User-10
-Version 1: ...
-
 ### User Story 11
 Story ID: User-11
 
@@ -307,11 +271,6 @@ As a user I want to be able share posts to friends
 
 #### Dependencies
 - Create a share button on each post, that will allow you to share the post internally and externally
-
-#### Revision History for User-11
-Version 1: ...
-
-*Community Engagment*
 
 ### User Story 12
 Story ID: User-12
@@ -328,9 +287,6 @@ As a user I want to be able follow specfic games, to help customise my feed
 - Follow button will toggle whether or not you see posts from that game in your feed
 - Create a page that lists all the games that you've followed
 
-#### Revision History for User-12
-Version 1: ...
-
 ### User Story 13
 Story ID: User-13
 
@@ -344,9 +300,6 @@ As a user I want to be able to join discussions by commenting on posts
 #### Dependencies
 - Create a comment button for posts
 - Create a page that shows all comments for the post
-
-#### Revision History for User-13
-Version 1: ...
 
 ### User Story 14
 Story ID: User-14
@@ -364,11 +317,6 @@ As a user I want to be able recieve notifications for replies from posts, import
 - Create a way to interact with that icon but doesn't obstructu user navigation
 - Create a seperate way to view all notifications
 
-#### Revision History for User-14
-Version 1: ...
-
-*Moderation and Administration*
-
 ### User Story 15
 Story ID: User-15
 
@@ -384,9 +332,6 @@ As a developer, I want to be able to create and manage a page for my game
 - Implement a developer user with special privileges
 - Create a way for a user to be assigned as a developer
 
-#### Revision History for User-15
-Version 1: 
-
 ### User Story 16
 Story ID: User-16
 
@@ -399,9 +344,6 @@ As a moderator, I want to be able to manage posts and comments within my assigne
 #### Dependencies
 - Implement a way for a developer to assign moderator privileges to a user
 - Give moderators privileges to manage post, comments (remove spam, ban users, respond to posts)
-
-#### Revision History for User-16
-Version 1:
 
 ### User Story 17
 Story ID: User-17
@@ -416,11 +358,6 @@ As an administrator, I want to have the ability to manage overall site settings,
 #### Dependencies
 - Implement an admin user with special privileges
 - Create a way for a user to get assigned as an admin
-
-#### Revision History for User-17
-Version 1: ...
-
-*Accessibility and Usability*
 
 ### User Story 18
 Story ID: User-18
@@ -448,11 +385,6 @@ As a user I want the app to have clear navigation and intuitive UI elements for 
 #### Dependencies
 - Ensure that navigation is intuitive and easily accessible from any point within the app
 
-#### Revision History for User-19
-Version 1: ...
-
-*Search*
-
 ### User Story 20
 Story ID: User-20
 
@@ -467,8 +399,6 @@ As a user I want to be able to search for posts, games or users
 - Create contectual search bar, i.e. search bar within friends page only searchs users
 - Auto suggestions for search queries
 
-#### Revision History for User-20
-Version 1: ...
 
 ### User Story 21
 Story ID: User-21
@@ -483,8 +413,25 @@ As a user I want to be able to discover new games or trending topics based on my
 - Create a page that shows a list of games within the database app
 - Create filters to better refine discoverability
 
-#### Revision History for User-21
-Version 1: ...
+### User Story Revision History
+
+#### Version 1:
+Our initial user stories were more broad and ecompassing many features, see below for examples
+
+User Story Statement 1:
+
+As a Game Developer, I want to implement a community page for my game to build interest and awareness before the launch, so that more people will be excited about and aware of my game.
+
+User Story Statement 2:
+
+As a Community Manager, I want to be able to give feedback and updates to players quickly, so that they kept up to date with important information
+
+User Story Statement 3:
+
+As a User, I want to be able to browse, interact, follow and discover my favourite games, whilst also being able to feel a part of a community within each game.
+
+#### Version 2: 
+We further broke down user stories into many more smaller experiences, to help better identify criteria and dependencies. This lead us to have 21 User Stories
 
 ---
 
@@ -494,7 +441,7 @@ Version 1: ...
 
 #### News Timeline
 ![Desktop News Timeline](/docs/web-timeline-news.png)
-![Mobile News Timeline](/docs/mobile-timeline-news.png)
+![Mobile News Timeline](/docs/mobile-news-timeline.png)
 
 #### Community Timeline
 ![Desktop Community Timeline](/docs/web-timeline-community.png)
@@ -508,7 +455,7 @@ Version 1: ...
 
 #### Game Community
 ![Desktop Game Community Page](/docs/web-game-community-timeline.png)
-![Mobile Game Community Page](/docs/mobile-)
+![Mobile Game Community Page](/docs/mobile-game-community-timeline.png)
 
 #### Game About
 ![Desktop Game About Page](/docs/web-game-about.png)
