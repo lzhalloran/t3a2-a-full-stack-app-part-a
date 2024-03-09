@@ -5,6 +5,19 @@ Part A of a Coder Academy final project, designing and planning a Full Stack MER
 
 A Video Game Social Platform that features User Chat, Posts, and Profile features, along with Game News, Updates and Communities.
 
+## Links
+
+This project is split over three repositories:
+
+- Backend : [github.com/lzhalloran/t3a2-backend](https://github.com/lzhalloran/t3a2-backend)
+
+- Frontend: [github.com/lewishardie/t3a2-frontend](https://github.com/lewishardie/t3a2-frontend)
+
+- Part A (planning and designing, main README, this repo): [github.com/lzhalloran/t3a2-a-full-stack-app-part-a](https://github.com/lzhalloran/t3a2-a-full-stack-app-part-a)
+
+The website is deployed here: [convokers.netlify.app](https://convokers.netlify.app/)
+
+
 ### Purpose
 
 There are currently a lot of platforms for video game engagement which offer different combinations of features, but do not provide a single platform for game news, communities and chat. This aims to solve that be being the single social platform for gaming enthuiasts to chat, be informed and connect. The aim is to provide a platform for gamers to connect, chat, share content, follow gaming news, updates and explore new games.
@@ -556,3 +569,16 @@ The Trello Board used for this project is available [here](https://trello.com/in
 
 ![Trello Screenshot](/docs/trello12.png)
 
+## Part B Trello Screenshots
+
+### 22nd Feb, 2024
+![Trello Screenshot](/docs/trelloPartB001.png)
+
+### 25th Feb, 2024
+![Trello Screenshot](/docs/trelloPartB002.png)
+
+### 4th Mar, 2024
+![Trello Screenshot](/docs/trelloPartB003.png)
+
+### 10th Mar, 2024
+![Trello Screenshot](/docs/trelloPartB004.png)
